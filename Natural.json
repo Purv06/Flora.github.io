@@ -21,7 +21,28 @@
 	
 	
 	
-	{
+	      	{
+			"author": "Purvesh Shinde",
+			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (1).jpg",
+			"name": "Leaves 1",
+			"collections": "Leaves"
+		},
+		{
+			"author": "Purvesh Shinde",
+			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (2).jpg",
+			"name": "Leaves 2",
+			"collections": "Leaves"
+		},
+			{
+			"author": "Purvesh Shinde",
+			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (4).jpg",
+			"name": "Leaves 4",
+			"collections": "Leaves"
+		},
+	
+	
+	
+		{
 			"author": "Purvesh Shinde",
 			"url": "https://purv06.github.io/Natural.github.io/Flowers/Flowers (67).jpg",
 			"name": "Flowers 67",
@@ -55,28 +76,10 @@
 
 
 	
-	      	{
-			"author": "Purvesh Shinde",
-			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (1).jpg",
-			"name": "Leaves 1",
-			"collections": "Leaves"
-		},
-		{
-			"author": "Purvesh Shinde",
-			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (2).jpg",
-			"name": "Leaves 2",
-			"collections": "Leaves"
-		},
 		{
 			"author": "Purvesh Shinde",
 			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (3).jpg",
 			"name": "Leaves 3",
-			"collections": "Leaves"
-		},
-		{
-			"author": "Purvesh Shinde",
-			"url": "https://purv06.github.io/Natural.github.io/Leaves/Leaves (4).jpg",
-			"name": "Leaves 4",
 			"collections": "Leaves"
 		},
 		{
